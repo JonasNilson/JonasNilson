@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-🔭 I'm currently working on Idle Master Extended (when I can find the time). 
+<img src="https://github-readme-stats.vercel.app/api?username=JonasNilson&show_icons=true&theme=radical">
 
-GitHub does not count fork contributions, so here's my graph from the repository: 
-<a href="https://github.com/JonasNilson/idle_master_extended/graphs/contributors"><img src="https://user-images.githubusercontent.com/5990550/199986020-9c3eda58-74ff-4327-b67a-41abf6222d33.png" alt="contributions" width="480"/></a>
+### Current projects
+
+- 🔭 [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) (when I can find the time)
+    - <a href="https://github.com/JonasNilson/idle_master_extended/graphs/contributors"><img src="https://user-images.githubusercontent.com/5990550/199986020-9c3eda58-74ff-4327-b67a-41abf6222d33.png" alt="contributions" width="256"/></a>
 
 <!--
 **JonasNilson/JonasNilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
