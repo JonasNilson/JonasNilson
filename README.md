@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=JonasNilson&show_icons=true&theme=radical">
-
 ### Current projects
 
 - 🔭 [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) (when I can find the time)
